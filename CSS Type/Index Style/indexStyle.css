@@ -17,7 +17,7 @@ header{background-color: darkslateblue;
        font-family: 'PT Serif', serif;
     }
 
-    button {
+    button {border: transparent;
         width: 100px;    /* anchura de la cajas */
         height: 200px;   /*  altura de la cajas */
            /* grosor de la linea de los marcos e la caja*/
@@ -39,44 +39,44 @@ header{background-color: darkslateblue;
 .category{display:inline-block;}
 
 
-.inline-android-1{
+.inline-android-1{background-color: white;
   background: white;
   border: transparent;}
 
-  .inline-android-2{
+  .inline-android-2{background-color: white;
     background: white;
     border: transparent;}
 
 
-    .inline-android-3{
+    .inline-android-3{background-color: white;
       background: white;
       border: transparent;}
     
-      .inline-android-4{
+      .inline-android-4{background-color: white;
         background: white;
         border: transparent;}
     
-        .inline-android-5{
+        .inline-android-5{background-color: white;
           background: white;
           border: transparent;}
         
-          .inline-android-6{
+          .inline-android-6{background-color: white;
             background: white;
 
             border: transparent;}
         
             
-          .inline-android-7{
+          .inline-android-7{background-color: white;
             background: white;
             border: transparent;}
         
         
-            .inline-android-8{
+            .inline-android-8{background-color: white;
               background: white;
               border: transparent;}
             
               
-            .inline-android-9{
+            .inline-android-9{background-color: white;
               background: transparent;
               border: transparent;}
             
@@ -159,7 +159,11 @@ header{background-color: darkslateblue;
 
 
 
-.style-letraCabecera{font-family: 'Playfair Display', serif;}
+.style-letraCabecera{text-align:center;
+  
+ 
+  
+  font-family: 'Playfair Display', serif;}
 
 
 .titulo-corchera-1{
@@ -168,7 +172,86 @@ border: solid 5px #34495E ;
 padding: 20px;
 margin-top: -30px;
 
+
 }
+
+
+
+
+.block1{  
+        
+  font-family: 'Josefin Sans', sans-serif;
+    background:  white;
+    outline: transparent;
+    border-radius: 1px;
+    text-align:center; }
+
+    .block2{  
+
+      font-family: 'Josefin Sans', sans-serif;
+        background:  white;
+        outline: transparent;
+        border-radius: 1px;
+        text-align:center; }
+
+        .block3{  
+        
+          font-family: 'Josefin Sans', sans-serif;
+            background:  white;
+            outline: transparent;
+            border-radius: 1px;
+            text-align:center; }
+    
+            .block4{  
+
+              font-family: 'Josefin Sans', sans-serif;
+                background:  white;
+                outline: transparent;
+                border-radius: 1px;
+                text-align:center; }
+        
+                .block5{  
+                
+                  font-family: 'Josefin Sans', sans-serif;
+                    background:  white;
+                    outline: transparent;
+                    border-radius: 1px;
+                    text-align:center; }
+            
+                    .block6{  
+
+                      font-family: 'Josefin Sans', sans-serif;
+                        background:  white;
+                        outline: transparent;
+                        border-radius: 1px;
+                        text-align:center; }
+                
+                        .block7{  
+                        
+                          font-family: 'Josefin Sans', sans-serif;
+                            background:  white;
+                            outline: transparent;
+                            border-radius: 1px;
+                            text-align:center; }
+                    
+                            .block8{  
+                        
+                              font-family: 'Josefin Sans', sans-serif;
+                                background:  white;
+                                outline: transparent;
+                                border-radius: 1px;
+                                text-align:center; }
+                        
+                                .texto-8{position:  absolute;
+                                  visibility: hidden;
+                                  width: 100px;
+                                  height: 100px;
+                                    column-count:1;
+                                     vertical-align:bottom;
+                                         }
+
+
+
 
 
 .titulo-corchera-2{
@@ -204,72 +287,7 @@ margin-top: -30px;
 
   
 
-        .block1{  
-        
-          font-family: 'Josefin Sans', sans-serif;
-            background:  white;
-            outline: transparent;
-            border-radius: 1px;
-            text-align:center; }
-    
-            .block2{  
-        
-              font-family: 'Josefin Sans', sans-serif;
-                background:  white;
-                outline: transparent;
-                border-radius: 1px;
-                text-align:center; }
-        
-                .block3{  
-                
-                  font-family: 'Josefin Sans', sans-serif;
-                    background:  white;
-                    outline: transparent;
-                    border-radius: 1px;
-                    text-align:center; }
-            
-                    .block4{  
-        
-                      font-family: 'Josefin Sans', sans-serif;
-                        background:  white;
-                        outline: transparent;
-                        border-radius: 1px;
-                        text-align:center; }
-                
-                        .block5{  
-                        
-                          font-family: 'Josefin Sans', sans-serif;
-                            background:  white;
-                            outline: transparent;
-                            border-radius: 1px;
-                            text-align:center; }
-                    
-                            .block6{  
-        
-                              font-family: 'Josefin Sans', sans-serif;
-                                background:  white;
-                                outline: transparent;
-                                border-radius: 1px;
-                                text-align:center; }
-                        
-                                .block7{  
-                                
-                                  font-family: 'Josefin Sans', sans-serif;
-                                    background:  white;
-                                    outline: transparent;
-                                    border-radius: 1px;
-                                    text-align:center; }
-                            
-                                    .block8{  
-                                
-                                      font-family: 'Josefin Sans', sans-serif;
-                                        background:  white;
-                                        outline: transparent;
-                                        border-radius: 1px;
-                                        text-align:center; }
-                                
-                            
-
+     
 
 
 
@@ -327,7 +345,10 @@ margin-top: -30px;
 
                      
 
-                     .style-letraCabecera{width:300px ;
+                     .style-letraCabecera{ position: absolute;
+                      left: 490px;
+
+                      width:300px;
                       
                       text-align:center;}
 
@@ -346,7 +367,8 @@ margin-top: -30px;
                       font-family: 'PT Serif', serif;
                       background-color: cornflowerblue;
                     border: solid 5px #34495E ;
-                    padding: 0px 781px;
+                    padding: 20px 781px 40px ;
+                    margin-top: -30px;
                     
                     
                     }
@@ -355,14 +377,14 @@ margin-top: -30px;
                     .titulo-corchera-2{
                       position: absolute;
                       
-                      top: 740px;
+                      top: 760px;
 
 
                       width: 100%;
                       font-family: 'PT Serif', serif;
                       background-color: cornflowerblue;
                     border: solid 5px #34495E ;
-                    padding: 0px 781px;
+                    padding: 20px 781px 40px;
                    
                     
                     }
@@ -372,13 +394,13 @@ margin-top: -30px;
                     .titulo-corchera-3{
                       position: absolute;
                      
-                      top: 1000px;
+                      top: 1020px;
 
                       width: 100%;
                       font-family: 'PT Serif', serif;
                       background-color: cornflowerblue;
                     border: solid 5px #34495E ;
-                    padding: 0px 781px;
+                    padding: 20px 781px 40px;
                     
                     
                     }
@@ -466,6 +488,17 @@ margin-top: -30px;
                                          vertical-align:bottom;
                                              }
                 
+
+
+                                             .texto-8{position:  absolute;
+                                              width: 100px;
+                                              height: 100px;
+                                                column-count:1;
+                                                 vertical-align:bottom;
+                                                     }
+                        
+
+
 
 
                                              .img-category-5{
