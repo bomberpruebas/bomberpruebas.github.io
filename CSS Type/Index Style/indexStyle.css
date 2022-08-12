@@ -9,6 +9,8 @@ a {
   }
 
 header{background-color: darkslateblue;
+  
+  width: 1350px;
   border: solid 5px #154360;
   padding: 150px;
   margin-top: 0px;
