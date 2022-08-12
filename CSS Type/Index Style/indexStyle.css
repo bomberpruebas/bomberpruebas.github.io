@@ -1,0 +1,292 @@
+
+
+
+a {
+  text-decoration: none;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+  }
+
+header{background-color: darkslateblue;
+  border: solid 5px #154360;
+  padding: 150px;
+  margin-top: 0px;
+       padding-top: 0px;
+       color: black;
+       font-family: 'PT Serif', serif;
+    }
+
+    button {
+        width: 100px;    /* anchura de la cajas */
+        height: 200px;   /*  altura de la cajas */
+           /* grosor de la linea de los marcos e la caja*/
+        margin:30px;/*margen entre caja y caja a lo ancho */}
+
+
+
+
+
+.titulo-pag{
+  font-family: 'Mouse Memoirs', sans-serif;
+  position: absolute;
+  top:0px;
+  left: 500px;
+ font-size: 100px;
+           }
+
+
+.category{display:inline-block;}
+
+.inline-android{border: transparent;}
+.icono-android{background: white;}
+.img-category{border: solid 5px #2471A3;
+              border-radius: 10px;
+}
+
+.android-text-1{ 
+  vertical-align:bottom;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.style-letraCabecera{font-family: 'Playfair Display', serif;}
+
+
+.titulo-corchera-1{
+  background-color: cornflowerblue;
+border: solid 5px #34495E ;
+padding: 20px;
+margin-top: -30px;
+
+}
+
+
+.titulo-corchera-2{
+  background-color: cornflowerblue;
+border: solid 5px #34495E ;
+padding: 20px;
+margin-top: -30px;
+
+}
+
+
+.titulo-corchera-3{
+  background-color: cornflowerblue;
+border: solid 5px #34495E ;
+padding: 20px;
+margin-top: -30px;
+
+}
+
+
+
+
+.inline{border: transparent;}
+
+    .corchera{display: inline-block;
+              
+    
+    }
+
+.letra-flecha{font-family: 'Playfair Display', serif;}
+
+
+
+    .block1{  
+        
+      font-family: 'Josefin Sans', sans-serif;
+        background:  white;
+        outline: transparent;
+        border-radius: 1px;
+        text-align:center; }
+
+      
+
+
+
+
+
+
+
+
+
+
+
+                   @media screen and (max-width:781px){
+
+                   
+
+               
+
+
+
+
+                    header{background-color: darkslateblue;
+                      
+                      border: solid 5px #154360;
+                      
+                      padding:150px 781px;
+                      margin-top: 0px;
+                           padding-top: 0px;
+                           color: black;
+                           font-family: 'PT Serif', serif;
+                        }
+            
+                        
+
+                        .titulo-pag{
+                          font-family: 'Mouse Memoirs', sans-serif;
+                          position: absolute;
+                          top:0px;
+                          left: 500px;
+                         font-size: 100px;
+                                   }
+
+
+
+
+
+                        .category{display:inline-flex;}
+                    
+
+                     
+
+                     .style-letraCabecera{width:200px ;
+                      
+                      text-align:center;}
+
+
+
+                     .corchera{display: inline-flex;
+                      
+                    
+                    }
+
+
+                    .titulo-corchera-1{
+
+
+                      width: 100%;
+                      font-family: 'PT Serif', serif;
+                      background-color: cornflowerblue;
+                    border: solid 5px #34495E ;
+                    padding: 0px 781px;
+                    
+                    
+                    }
+
+
+                    .titulo-corchera-2{
+                      position: absolute;
+                      
+                      top: 770px;
+
+
+                      width: 100%;
+                      font-family: 'PT Serif', serif;
+                      background-color: cornflowerblue;
+                    border: solid 5px #34495E ;
+                    padding: 0px 781px;
+                   
+                    
+                    }
+
+
+
+                    .titulo-corchera-3{
+                      position: absolute;
+                     
+                      top: 1050px;
+
+                      width: 100%;
+                      font-family: 'PT Serif', serif;
+                      background-color: cornflowerblue;
+                    border: solid 5px #34495E ;
+                    padding: 0px 781px;
+                    
+                    
+                    }
+
+
+
+
+
+
+
+                    .texto-1{position:  absolute;
+                      
+                      width: 100px;
+                      height: 100px;
+                       column-count:1;
+                        vertical-align:bottom;
+                              
+                    
+                    }
+            
+                    .texto-2{position:  absolute;
+                     
+                      width: 100px;
+                      height: 100px;
+                        column-count:1;
+                         vertical-align:bottom;
+                              
+                     }
+            
+                     .texto-3{position:  absolute;
+                      width: 100px;
+                      height: 100px;
+                        column-count:1;
+                         vertical-align:bottom;
+                             }
+
+
+
+                             .texto-4{position:  absolute;
+                              width: 100px;
+                              height: 100px;
+                               column-count:1;
+                                vertical-align:bottom;
+                                      
+                            
+                            }
+                    
+                            .texto-5{position:  absolute;
+                              width: 100px;
+                              height: 100px;
+                                column-count:1;
+                                 vertical-align:bottom;
+                                      
+                             }
+                    
+                             .texto-6{position:  absolute;
+                              width: 100px;
+                              height: 100px;
+                                column-count:1;
+                                 vertical-align:bottom;
+                                     }
+        
+        
+        
+
+                                     .texto-7{position:  absolute;
+                                      width: 100px;
+                                      height: 100px;
+                                        column-count:1;
+                                         vertical-align:bottom;
+                                             }
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   }
