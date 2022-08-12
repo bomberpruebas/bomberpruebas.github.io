@@ -38,17 +38,126 @@ header{background-color: darkslateblue;
 
 .category{display:inline-block;}
 
-.inline-android{border: transparent;}
-.icono-android{background: white;}
-.img-category{border: solid 5px #2471A3;
+
+.inline-android-1{
+  background: white;
+  border: transparent;}
+
+  .inline-android-2{
+    background: white;
+    border: transparent;}
+
+
+    .inline-android-3{
+      background: white;
+      border: transparent;}
+    
+      .inline-android-4{
+        background: white;
+        border: transparent;}
+    
+        .inline-android-5{
+          background: white;
+          border: transparent;}
+        
+          .inline-android-6{
+            background: white;
+
+            border: transparent;}
+        
+            
+          .inline-android-7{
+            background: white;
+            border: transparent;}
+        
+        
+            .inline-android-8{
+              background: white;
+              border: transparent;}
+            
+              
+            .inline-android-9{
+              background: transparent;
+              border: transparent;}
+            
+              
+        
+
+
+
+
+
+.img-category-1{
+  border: solid 5px #2471A3;
               border-radius: 10px;
 }
+
+
+.img-category-2{
+  border: solid 5px #2471A3;
+              border-radius: 10px;
+}
+
+
+
+.img-category-3{
+  border: solid 5px #2471A3;
+              border-radius: 10px;
+}
+
+
+.img-category-4{
+  border: solid 5px #2471A3;
+              border-radius: 10px;
+}
+
+.img-category-5{visibility: hidden;
+  border: transparent;}
+
+
+
+
+
+
 
 .android-text-1{ 
   vertical-align:bottom;
   font-family: 'Josefin Sans', sans-serif;
 
 }
+
+.android-text-2{ 
+  vertical-align:bottom;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+.android-text-3{ 
+  vertical-align:bottom;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+.android-text-4{ 
+  vertical-align:bottom;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+.android-text-5{ 
+  visibility: hidden;
+  vertical-align:bottom;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+
+
+
 
 .style-letraCabecera{font-family: 'Playfair Display', serif;}
 
@@ -93,15 +202,81 @@ margin-top: -30px;
 
 
 
-    .block1{  
-        
-      font-family: 'Josefin Sans', sans-serif;
-        background:  white;
-        outline: transparent;
-        border-radius: 1px;
-        text-align:center; }
+  
 
-      
+        .block1{  
+        
+          font-family: 'Josefin Sans', sans-serif;
+            background:  white;
+            outline: transparent;
+            border-radius: 1px;
+            text-align:center; }
+    
+            .block2{  
+        
+              font-family: 'Josefin Sans', sans-serif;
+                background:  white;
+                outline: transparent;
+                border-radius: 1px;
+                text-align:center; }
+        
+                .block3{  
+                
+                  font-family: 'Josefin Sans', sans-serif;
+                    background:  white;
+                    outline: transparent;
+                    border-radius: 1px;
+                    text-align:center; }
+            
+                    .block4{  
+        
+                      font-family: 'Josefin Sans', sans-serif;
+                        background:  white;
+                        outline: transparent;
+                        border-radius: 1px;
+                        text-align:center; }
+                
+                        .block5{  
+                        
+                          font-family: 'Josefin Sans', sans-serif;
+                            background:  white;
+                            outline: transparent;
+                            border-radius: 1px;
+                            text-align:center; }
+                    
+                            .block6{  
+        
+                              font-family: 'Josefin Sans', sans-serif;
+                                background:  white;
+                                outline: transparent;
+                                border-radius: 1px;
+                                text-align:center; }
+                        
+                                .block7{  
+                                
+                                  font-family: 'Josefin Sans', sans-serif;
+                                    background:  white;
+                                    outline: transparent;
+                                    border-radius: 1px;
+                                    text-align:center; }
+                            
+                                    .block8{  
+                                
+                                      font-family: 'Josefin Sans', sans-serif;
+                                        background:  white;
+                                        outline: transparent;
+                                        border-radius: 1px;
+                                        text-align:center; }
+                                
+                            
+
+
+
+
+
+
+
+
 
 
 
@@ -152,7 +327,7 @@ margin-top: -30px;
 
                      
 
-                     .style-letraCabecera{width:200px ;
+                     .style-letraCabecera{width:300px ;
                       
                       text-align:center;}
 
@@ -180,7 +355,7 @@ margin-top: -30px;
                     .titulo-corchera-2{
                       position: absolute;
                       
-                      top: 770px;
+                      top: 740px;
 
 
                       width: 100%;
@@ -197,7 +372,7 @@ margin-top: -30px;
                     .titulo-corchera-3{
                       position: absolute;
                      
-                      top: 1050px;
+                      top: 1000px;
 
                       width: 100%;
                       font-family: 'PT Serif', serif;
@@ -210,6 +385,21 @@ margin-top: -30px;
 
 
 
+
+                    .block1{  visibility: hidden;
+        
+                      }
+                
+                        .block2{  visibility: hidden;
+                    
+                           }
+
+
+
+                            .block7{  visibility: hidden;
+                    
+                              }
+    
 
 
 
@@ -278,8 +468,18 @@ margin-top: -30px;
                 
 
 
+                                             .img-category-5{
+                                              border: solid 5px #2471A3;
+                                                          border-radius: 10px;
+                                            }
+                                            
 
-
+                                            .android-text-5{ 
+                                              vertical-align:bottom;
+                                              font-family: 'Josefin Sans', sans-serif;
+                                            
+                                            }
+                                            
 
 
 
