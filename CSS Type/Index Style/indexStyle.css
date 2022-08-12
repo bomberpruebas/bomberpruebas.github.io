@@ -234,7 +234,7 @@ margin-top: -30px;
                             border-radius: 1px;
                             text-align:center; }
                     
-                            .block8{  
+                            .block8{  visibility: hidden;
                         
                               font-family: 'Josefin Sans', sans-serif;
                                 background:  white;
@@ -242,7 +242,63 @@ margin-top: -30px;
                                 border-radius: 1px;
                                 text-align:center; }
                         
-                                .texto-8{position:  absolute;
+    
+
+
+
+                            .block9{  position: absolute;
+
+                              width: 100px;    /* anchura de la cajas */
+                              height: 70px;   /*  altura de la cajas */
+
+
+                              left:1150px ;
+                        
+                              font-family: 'Josefin Sans', sans-serif;
+                                background:  white;
+                                outline: transparent;
+                                border-radius: 1px;
+                                text-align:center; }
+                        
+
+                                .block19{  position: absolute;
+
+                                  width: 100px;    /* anchura de la cajas */
+                                  height: 70px;   /*  altura de la cajas */
+    
+    
+                                  left:1150px ;
+                            
+                                  font-family: 'Josefin Sans', sans-serif;
+                                    background:  white;
+                                    outline: transparent;
+                                    border-radius: 1px;
+                                    text-align:center; }
+                            
+
+
+                                    .block29{  position: absolute;
+
+                                      width: 100px;    /* anchura de la cajas */
+                                      height: 70px;   /*  altura de la cajas */
+        
+        
+                                      left:1150px ;
+                                
+                                      font-family: 'Josefin Sans', sans-serif;
+                                        background:  white;
+                                        outline: transparent;
+                                        border-radius: 1px;
+                                        text-align:center; }
+                                
+
+
+
+
+
+
+
+                                .texto-9{position:  absolute;
                                   visibility: hidden;
                                   width: 100px;
                                   height: 100px;
@@ -332,7 +388,7 @@ margin-top: -30px;
                           font-family: 'Mouse Memoirs', sans-serif;
                           position: absolute;
                           top:0px;
-                          left: 500px;
+                          left: 625px;
                          font-size: 100px;
                                    }
 
@@ -343,10 +399,30 @@ margin-top: -30px;
                         .category{display:inline-flex;}
                     
 
-                     
+                        
+                        
+                        
+                        .img-category-1{visibility: hidden;}
+
+                       .android-text-1{visibility: hidden;}
+
+                        .img-category-5{visibility: visible;
+                          border: solid 5px #2471A3;
+                                      border-radius: 10px;
+                        }
+
+                        .android-text-5{ 
+                          visibility: visible;
+                          vertical-align:bottom;
+                          font-family: 'Josefin Sans', sans-serif;
+                        
+                        }
+                        
+
+
 
                      .style-letraCabecera{ position: absolute;
-                      left: 490px;
+                      left: 650px;
 
                       width:300px;
                       
@@ -418,10 +494,87 @@ margin-top: -30px;
 
 
 
-                            .block7{  visibility: hidden;
-                    
-                              }
-    
+
+
+                              .block7{  visibility: visible;
+                        
+                                font-family: 'Josefin Sans', sans-serif;
+                                  background:  white;
+                                  outline: transparent;
+                                  border-radius: 1px;
+                                  text-align:center; }
+                          
+
+
+
+
+                              .block8{  visibility: visible;
+                        
+                                font-family: 'Josefin Sans', sans-serif;
+                                  background:  white;
+                                  outline: transparent;
+                                  border-radius: 1px;
+                                  text-align:center; }
+                          
+
+
+                              .block9{  position: absolute;
+
+                                width: 100px;    /* anchura de la cajas */
+                                height: 70px;   /*  altura de la cajas */
+  
+  
+                                left:1380px ;
+                                top:520px;
+                          
+                                font-family: 'Josefin Sans', sans-serif;
+                                  background:  white;
+                                  outline: transparent;
+                                  border-radius: 1px;
+                                  text-align:center; }
+                          
+  
+                                  .block19{  position: absolute;
+  
+                                    width: 100px;    /* anchura de la cajas */
+                                    height: 70px;   /*  altura de la cajas */
+      
+      
+                                    left:1380px ;
+
+                                    top:785px;
+                              
+                                    font-family: 'Josefin Sans', sans-serif;
+                                      background:  white;
+                                      outline: transparent;
+                                      border-radius: 1px;
+                                      text-align:center; }
+                              
+  
+  
+                                      .block29{  position: absolute;
+  
+                                        width: 100px;    /* anchura de la cajas */
+                                        height: 70px;   /*  altura de la cajas */
+          
+          
+                                        left:1380px ;
+                                        top:1045px;
+                                  
+                                        font-family: 'Josefin Sans', sans-serif;
+                                          background:  white;
+                                          outline: transparent;
+                                          border-radius: 1px;
+                                          text-align:center; }
+                                  
+  
+
+
+
+
+
+
+
 
 
 
@@ -501,10 +654,6 @@ margin-top: -30px;
 
 
 
-                                             .img-category-5{
-                                              border: solid 5px #2471A3;
-                                                          border-radius: 10px;
-                                            }
                                             
 
                                             .android-text-5{ 
