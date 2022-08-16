@@ -556,6 +556,379 @@ top:3000px;
 
 
 
+@media screen and (max-width:970px) {
+
+
+
+
+
+
+
+  .Titulo-list-category{position:absolute;
+    left:815px;
+  
+    top:0px;
+    text-align:justify;
+  font-family:'Pacifico', cursive;
+     text-align:center; 
+     font-size: 90px;
+    }
+
+.imagenCabezera{position: absolute;
+      left:935px;
+      top:200px;}
+    
+    .styleTableroInicio { 
+      
+      background:#34495e;
+      text-align: center;
+      color:white;
+      outline: 5px solid #3f3f9f;
+      margin:0px;
+      padding:50px 1120px;
+      height:25px ;
+      width:100%;
+      
+      border-radius:10px ;
+      font-family: 'PT Serif', serif;
+      font-size: 25px;
+      font-weight: bold;
+      padding-top:20px;
+      /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+      margin-top: -125px;
+      /* margen entre las cajas parte superior y titulo */
+      margin-bottom: -10px;
+  }
+
+.stylePosicionLetraTablero{position: absolute;
+  color: white;
+
+  left:870px;
+
+  font-family: 'PT Serif', serif;
+}
+
+
+.corchera{display: inline-flex;
+position: absolute;
+left: 53%;
+}
+ .corchera-2{display: inline-flex;
+        position: absolute;
+        left: 53%;
+         }
+
+      .corchera-3{display: inline-flex;
+        position: absolute;
+        left: 53%;
+      }
+      
+      .corchera-4{display: inline-flex;
+      position: absolute;
+      left: 53%;
+      
+      }
+      
+      .corchera-5{display: inline-flex;}
+      
+      .corchera-6{display: inline-flex;}
+      
+      
+      .corchera-7{display: inline-flex;}
+      
+      .corchera-8{display: inline-flex;}
+      
+      .corchera-9{display: inline-flex;}
+      
+
+
+  
+ .PosicionFlechaSiguiente-1{
+  position: absolute;
+  top:1500px;
+
+left:1005px;
+
+}
+
+
+
+
+
+.otras-aplicaciones-1{ 
+
+  position: absolute;
+  top:1750px;
+  left:0px;
+  background:#34495e;
+  color:white;
+  outline: 5px solid #3f3f9f;
+  margin:0px;
+  padding:50px 1130px;
+  height:25px ;
+  width:100%;
+  
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:20px;
+  /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+  margin-top: -125px;
+  /* margen entre las cajas parte superior y titulo */
+  margin-bottom: -10px;
+
+}
+
+
+.stylePosicionLetraTablero-1{position: absolute;
+
+left:565px;
+font-family: 'PT Serif', serif;
+color: white;
+
+
+}
+
+
+
+.cabezera-tipo-seccion-1{ 
+
+  position: absolute;
+  top:1700px;
+  left:760px;
+  display:inline-block;
+  outline: 5px solid #369;
+  background:white;
+  color:gray;
+  margin:10px;
+  
+  height:25px ;
+  width:50%;
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding:40px 250px;
+  padding-top:0px ;
+  margin-top:0 ;
+  margin-bottom: 50px;
+
+
+
+
+}
+
+
+.styleLetraCategory-1{position: absolute;
+  left: 200px;
+
+  font-family: 'PT Serif', serif;
+
+}
+
+
+
+.PosicionFlechaSiguiente-2{
+  position: absolute;
+  top:2200px;
+
+left:985px;
+
+}
+
+
+.otras-aplicaciones-2{ 
+
+  position: absolute;
+  top:2400px;
+  left:0px;
+  background:#34495e;
+  color:white;
+  outline: 5px solid #3f3f9f;
+  margin:0px;
+  padding:40px 1130px;
+  height:25px ;
+  width:100%;
+  
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:20px;
+  /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+  margin-top: -125px;
+  /* margen entre las cajas parte superior y titulo */
+  margin-bottom: -10px;
+
+}
+
+
+.stylePosicionLetraTablero-2{ position: absolute;
+
+  left:560px;
+  font-family: 'PT Serif', serif;
+  color: white;
+   }
+
+
+
+.cabezera-tipo-seccion-2{ 
+
+  position: absolute;
+  top:2350px;
+  left:745px;
+  display:inline-block;
+  outline: 5px solid #369;
+  background:white;
+  color:gray;
+  margin:10px;
+  padding:40px 250px;
+  height:25px ;
+  width:50%;
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:0px;
+  margin-top:0 ;
+  margin-bottom: 50px;
+
+
+
+
+}
+
+.styleLetraCategory-2{ position: absolute;
+  left: 140px;
+
+  font-family: 'PT Serif', serif; }
+
+
+  .PosicionFlechaSiguiente-3{
+    position: absolute;
+    top:3100px;
+  
+    left:985px;
+  
+  }
+
+
+
+  .separacionFinal{ 
+
+    position: absolute;
+    top:3300px;
+    left:0px;
+    background:#34495e;
+    outline: 5px solid #3f3f9f;
+    margin:0px;
+    padding:20px 1130px;
+    height:25px ;
+    width:100%;
+    border-radius:10px ;
+    padding-top:20px;
+    margin-top: -125px;
+    /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+   
+    /* margen entre las cajas parte inferior*/
+    margin-bottom: 10px;
+  
+  }
+  
+
+
+
+
+
+.block7{visibility:hidden;}
+.block8{visibility:hidden;}
+
+
+
+
+
+.texto-1{position:  absolute;
+  font-family: 'PT Serif', serif;
+                      
+  width: 100px;
+  height: 100px;
+   column-count:1;
+    vertical-align:bottom;
+          
+
+}
+
+.texto-2{position:  absolute;
+  font-family: 'PT Serif', serif;
+ 
+  width: 100px;
+  height: 100px;
+    column-count:1;
+     vertical-align:bottom;
+          
+ }
+
+ .texto-3{position:  absolute;
+  font-family: 'PT Serif', serif;
+  width: 100px;
+  height: 100px;
+    column-count:1;
+     vertical-align:bottom;
+         }
+
+
+
+         .texto-4{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+           column-count:1;
+            vertical-align:bottom;
+                  
+        
+        }
+
+        .texto-5{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+            column-count:1;
+             vertical-align:bottom;
+                  
+         }
+
+         .texto-6{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+            column-count:1;
+             vertical-align:bottom;
+                 }
+
+
+
+
+                 .texto-7{position:  absolute;
+                  font-family: 'PT Serif', serif;
+                  width: 100px;
+                  height: 100px;
+                    column-count:1;
+                     vertical-align:bottom;
+                         }
+
+
+
+                         .texto-8{position:  absolute;
+                          font-family: 'PT Serif', serif;
+                          width: 100px;
+                          height: 100px;
+                            column-count:1;
+                             vertical-align:bottom;
+                                 }
+    
+                      
+                                
 
 
 
@@ -565,6 +938,15 @@ top:3000px;
 
 
 
+
+
+
+
+
+
+
+  
+}
 
 
 @media screen and (max-width:781px){     
