@@ -1,0 +1,201 @@
+
+
+a {text-decoration: none;
+    
+    color:black}
+
+
+
+
+.footer-logo{position: absolute;
+    left:540px;
+    bottom:-305px;
+
+   
+
+    font-family: 'Pacifico', cursive;
+    font-size: 45px;}
+
+ 
+
+.img-footer{position:absolute;
+bottom:-500px;
+left:550px;
+
+}
+
+.sobre-nosotros{position: absolute;
+    bottom:-750px;
+    left:530px;
+    font-family: 'PT Serif', serif;
+
+}
+
+
+    .donativo{position: absolute;
+        bottom:-750px;
+        left:690px;
+        font-family: 'PT Serif', serif;
+    }
+
+
+    .contacto{position: absolute;
+        bottom:-750px;
+        left:350px;
+       
+        font-family: 'PT Serif', serif;
+    }
+
+    .footer-company-name{
+        position: absolute;
+        bottom:-650px;
+        left:555px;
+        width: 200px;;
+
+        font-family: 'PT Serif', serif;
+
+    
+    }
+
+
+
+
+    @media screen and (max-width:970px){  
+
+
+
+
+
+
+
+
+
+        .footer-logo{position: absolute;
+            left:875px;
+            bottom:-305px;
+        
+           
+        
+            font-family: 'Pacifico', cursive;
+            font-size: 45px;}
+        
+         
+        
+        .img-footer{position:absolute;
+        bottom:-500px;
+        left:885px;
+        
+        }
+        
+        .sobre-nosotros{position: absolute;
+            bottom:-750px;
+            left:865px;
+            font-family: 'PT Serif', serif;
+        
+        }
+        
+        
+            .donativo{position: absolute;
+                bottom:-750px;
+                left:1090px;
+                font-family: 'PT Serif', serif;
+            }
+        
+        
+            .contacto{position: absolute;
+                bottom:-745px;
+                left:650px;
+               
+                font-family: 'PT Serif', serif;
+            }
+        
+            .footer-company-name{
+                position: absolute;
+                bottom:-650px;
+                left:885px;
+                width: 200px;;
+        
+                font-family: 'PT Serif', serif;
+        
+            
+            }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+
+
+
+
+
+
+    @media screen and (max-width:781px){
+
+
+
+
+
+        .footer-logo{position: absolute;
+            left:735px;
+            bottom:-305px;
+        
+           
+        
+            font-family: 'Pacifico', cursive;
+            font-size: 45px;}
+        
+         
+        
+        .img-footer{position:absolute;
+        bottom:-500px;
+        left:740px;
+        
+        }
+        
+        .sobre-nosotros{position: absolute;
+            bottom:-750px;
+            left:710px;
+            font-family: 'PT Serif', serif;
+        
+        }
+        
+        
+            .donativo{position: absolute;
+                bottom:-750px;
+                left:920px;
+                font-family: 'PT Serif', serif;
+            }
+        
+        
+            .contacto{position: absolute;
+                bottom:-750px;
+                left:520px;
+               
+                font-family: 'PT Serif', serif;
+            }
+        
+            .footer-company-name{
+                position: absolute;
+                bottom:-650px;
+                left:820px;
+                width: 200px;;
+        
+                font-family: 'PT Serif', serif;
+        
+            
+            }
+
+
+
+}
+
