@@ -1,0 +1,958 @@
+a {
+  
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+
+button { border: transparent;
+  width: 100px;    /* anchura de la cajas */
+  height: 100px;   /*  altura de la cajas */
+     /* grosor de la linea de los marcos e la caja*/
+  margin:50px;/*margen entre caja y caja a lo ancho */
+      }
+
+ 
+
+      .inline{
+ 
+        font-family: 'PT Serif', serif;
+        font-weight:bold;
+        }
+       
+
+
+/* bloque-1 */
+
+.img-icono{border: solid 2px black ;
+           border-radius: 10px;
+
+}
+
+
+.block1{  
+  background: #C8D8D9 ;
+  border: transparent;
+          border-radius: 1px;
+          text-align:center; }
+
+
+
+
+.block2{  
+         border: transparent;
+           background: #C8D8D9;
+         border-radius: 1px;
+          text-align:center;}
+.block3{  background: #C8D8D9;
+  background: #C8D8D9;
+          border-radius: 1px;
+          text-align:center; }
+.block4{  background: #C8D8D9;
+          
+          border-radius: 1px;
+          text-align:center;}
+.block5{  background: #C8D8D9;
+          
+          border-radius: 1px;
+          text-align:center;}
+.block6{  background: #C8D8D9;
+             text-align:center;
+          border-radius: 1px;}
+.block7{  background: #C8D8D9;
+          border-radius: 1px;}
+.block8{  background: #C8D8D9;
+          border-radius: 1px;}
+
+          .block9{  background: #C8D8D9;
+            border-radius: 1px;}
+  
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background: #C8D8D9 ;
+    margin-top: 700px;
+    padding:20px;
+    text-align:center;
+    font-family: Helvetica;
+    }
+
+ a {color:black}
+
+h2{
+  padding:50px 0;   /*altura posicion letras encabezado cuadricula*/
+      margin:-30px 0;   /*posicion de las letras altura y margen - + encabezado cuadricula */
+     width: 40%;
+     color:white;
+     height:30px;
+     align-items: center;
+     text-align:center; 
+     font-family: 'PT Serif', serif;
+     color:#7f8c8d;
+     padding-top:20px;
+}
+ 
+
+.imagenCabezera{position: absolute;
+  left:570px;
+  top:200px;}
+
+ .Titulo-list-category{position:absolute;
+  left:30%;
+
+  top:0px;
+  text-align:justify;
+font-family:'Pacifico', cursive;
+   text-align:center; 
+   font-size: 100px;
+  }
+
+
+
+  .stylePosicionLetraTablero{position: absolute;
+    color:white;
+    text-align: center;
+    
+    left:415px;
+
+  
+    font-family: 'PT Serif', serif;
+  
+  
+  
+  
+  
+  }
+
+
+
+  .inline00{
+    display:inline-block;
+   margin-right:-4px; /* Fix para eliminar margen no deseado*/
+ padding-top: 15px;
+ 
+ text-align: justify;
+  margin-block: 50px;
+  border-radius: 1px;
+  outline: 5px solid #369;
+
+}
+.float{
+    float:left;
+    display:block;
+  }
+
+  
+  .styleTableroInicio { 
+    text-align: center;
+    background:#34495e;
+    color:white;
+    outline: 5px solid #3f3f9f;
+    margin:0px;
+    padding:50px 0;
+    height:25px ;
+    width:100%;
+    
+    border-radius:10px ;
+    font-family: 'PT Serif', serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top:20px;
+    /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+    margin-top: -125px;
+    /* margen entre las cajas parte superior y titulo */
+    margin-bottom: -10px;
+
+}
+
+
+
+
+
+.otras-aplicaciones-1{ 
+
+  position: absolute;
+  top:1750px;
+  left:0px;
+  background:#34495e;
+  color:white;
+  outline: 5px solid #3f3f9f;
+  margin:0px;
+  padding:50px 0;
+  height:25px ;
+  width:100%;
+  
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:20px;
+  /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+  margin-top: -125px;
+  /* margen entre las cajas parte superior y titulo */
+  margin-bottom: -10px;
+
+}
+
+.stylePosicionLetraTablero-1{ position: absolute;
+  left:400px; 
+
+
+  font-family: 'PT Serif', serif;
+  color:white;
+
+}
+
+
+
+
+.cabezera-tipo-seccion-1{ 
+
+  position: absolute;
+  top:1700px;
+  left:330px;
+  display:inline-block;
+  outline: 5px solid #369;
+  background:white;
+  color:gray;
+  margin:10px;
+  padding:40px 0;
+  height:25px ;
+  width:50%;
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:20px;
+  margin-top:0 ;
+  margin-bottom: 50px;
+
+
+
+
+}
+
+
+
+
+
+
+.otras-aplicaciones-2{ 
+
+  position: absolute;
+  top:2400px;
+  left:0px;
+  background:#34495e;
+  color:white;
+  outline: 5px solid #3f3f9f;
+  margin:0px;
+  padding:50px 0;
+  height:25px ;
+  width:100%;
+  
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:20px;
+  /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+  margin-top: -125px;
+  /* margen entre las cajas parte superior y titulo */
+  margin-bottom: -10px;
+
+}
+
+.stylePosicionLetraTablero-2{  position: absolute;
+  left:400px; 
+
+
+  font-family: 'PT Serif', serif;
+  color:white;
+  }
+
+
+
+
+.cabezera-tipo-seccion-2{ 
+
+  position: absolute;
+  top:2350px;
+  left:330px;
+  display:inline-block;
+  outline: 5px solid #369;
+  background:white;
+  color:gray;
+  margin:10px;
+  padding:40px 0;
+  height:25px ;
+  width:50%;
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:20px;
+  margin-top:0 ;
+  margin-bottom: 50px;
+
+}
+
+.corchera{position: absolute;}
+
+.corchera-2{
+  position: absolute;
+  top:800px;
+  
+ }
+
+
+ .corchera-3{
+  
+  position: absolute;
+  top:1000px;
+  
+ }
+
+
+
+ .corchera-4{
+  
+  position: absolute;
+  top:1200px;
+  
+ }
+
+
+ .PosicionFlechaSiguiente-1{
+  position: absolute;
+  top:1500px;
+
+left:660px;
+
+}
+
+
+
+
+ .corchera-5{
+  
+  position: absolute;
+  top:1760px;
+  
+ }
+
+
+ .corchera-6{
+  
+  position: absolute;
+  top:1960px;
+  
+ }
+
+
+
+ .PosicionFlechaSiguiente-2{
+  position: absolute;
+  top:2200px;
+
+left:660px;
+
+}
+
+
+
+
+
+ .corchera-7{
+  
+  position: absolute;
+  top:2420px;
+  
+ }
+
+ .corchera-8{
+  
+  position: absolute;
+  top:2620px;
+  
+ }
+
+
+
+ .texto-1{position:  absolute;
+  font-family: 'PT Serif', serif;
+                      
+  width: 100px;
+  height: 100px;
+   column-count:1;
+    vertical-align:bottom;
+          
+
+}
+
+.texto-2{position:  absolute;
+  font-family: 'PT Serif', serif;
+ 
+  width: 100px;
+  height: 100px;
+    column-count:1;
+     vertical-align:bottom;
+          
+ }
+
+ .texto-3{position:  absolute;
+  font-family: 'PT Serif', serif;
+  width: 100px;
+  height: 100px;
+    column-count:1;
+     vertical-align:bottom;
+         }
+
+
+
+         .texto-4{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+           column-count:1;
+            vertical-align:bottom;
+                  
+        
+        }
+
+        .texto-5{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+            column-count:1;
+             vertical-align:bottom;
+                  
+         }
+
+         .texto-6{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+            column-count:1;
+             vertical-align:bottom;
+                 }
+
+
+
+
+                 .texto-7{position:  absolute;
+                  font-family: 'PT Serif', serif;
+                  width: 100px;
+                  height: 100px;
+                    column-count:1;
+                     vertical-align:bottom;
+                         }
+
+
+
+                         .texto-8{position:  absolute;
+                          font-family: 'PT Serif', serif;
+                          width: 100px;
+                          height: 100px;
+                            column-count:1;
+                             vertical-align:bottom;
+                                 }
+    
+
+
+
+
+ .PosicionFlechaSiguiente-3{
+  position: absolute;
+  top:3100px;
+
+left:660px;
+
+}
+
+
+
+
+.separacionFinal{ 
+
+  position: absolute;
+  top:3300px;
+  left:0px;
+  background:#34495e;
+  outline: 5px solid #3f3f9f;
+  margin:0px;
+  padding:20px 0;
+  height:25px ;
+  width: 100%;
+ 
+  border-radius:10px ;
+  padding-top:20px;
+  margin-top: -125px;
+  /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+ 
+  /* margen entre las cajas parte inferior*/
+  margin-bottom: 10px;
+
+}
+
+
+
+
+ .corchera-9{
+  
+  position: absolute;
+  top:2820px;
+  
+ }
+
+
+
+
+ .div-footer{position: absolute;
+top:3000px;
+
+
+
+
+}
+
+
+
+
+.block7{visibility: hidden;}
+
+.block8{visibility: hidden;}
+
+.block21{visibility: hidden;}
+
+.block22{visibility: hidden;}
+.block29{visibility: hidden;}
+
+.block30{visibility: hidden;}
+
+.block37{visibility: hidden;}
+
+.block38{visibility: hidden;}
+.block45{visibility: hidden;}
+
+.block46{visibility: hidden;}
+
+.block53{visibility: hidden;}
+
+.block54{visibility: hidden;}
+
+.block61{visibility: hidden;}
+
+.block62{visibility: hidden;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:781px){     
+
+
+
+  .Titulo-list-category{position:absolute;
+    left:660px;
+  
+    top:0px;
+    text-align:justify;
+  font-family:'Pacifico', cursive;
+     text-align:center; 
+     font-size: 90px;
+    }
+
+.imagenCabezera{position: absolute;
+      left:800px;
+      top:200px;}
+    
+    .styleTableroInicio { 
+      
+      background:#34495e;
+      text-align: center;
+      color:white;
+      outline: 5px solid #3f3f9f;
+      margin:0px;
+      padding:50px 930px;
+      height:25px ;
+      width:100%;
+      
+      border-radius:10px ;
+      font-family: 'PT Serif', serif;
+      font-size: 25px;
+      font-weight: bold;
+      padding-top:20px;
+      /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+      margin-top: -125px;
+      /* margen entre las cajas parte superior y titulo */
+      margin-bottom: -10px;
+  }
+
+.stylePosicionLetraTablero{position: absolute;
+  color: white;
+
+  left:780px;
+
+  font-family: 'PT Serif', serif;
+}
+
+
+.corchera{display: inline-flex;
+position: absolute;
+left: 53%;
+}
+ .corchera-2{display: inline-flex;
+        position: absolute;
+        left: 53%;
+         }
+
+      .corchera-3{display: inline-flex;
+        position: absolute;
+        left: 53%;
+      }
+      
+      .corchera-4{display: inline-flex;
+      position: absolute;
+      left: 53%;
+      
+      }
+      
+      .corchera-5{display: inline-flex;}
+      
+      .corchera-6{display: inline-flex;}
+      
+      
+      .corchera-7{display: inline-flex;}
+      
+      .corchera-8{display: inline-flex;}
+      
+      .corchera-9{display: inline-flex;}
+      
+
+
+  
+ .PosicionFlechaSiguiente-1{
+  position: absolute;
+  top:1500px;
+
+left:860px;
+
+}
+
+
+
+
+
+.otras-aplicaciones-1{ 
+
+  position: absolute;
+  top:1750px;
+  left:0px;
+  background:#34495e;
+  color:white;
+  outline: 5px solid #3f3f9f;
+  margin:0px;
+  padding:50px 930px;
+  height:25px ;
+  width:100%;
+  
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:20px;
+  /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+  margin-top: -125px;
+  /* margen entre las cajas parte superior y titulo */
+  margin-bottom: -10px;
+
+}
+
+
+.stylePosicionLetraTablero-1{position: absolute;
+
+left:510px;
+font-family: 'PT Serif', serif;
+color: white;
+
+
+}
+
+
+
+.cabezera-tipo-seccion-1{ 
+
+  position: absolute;
+  top:1700px;
+  left:620px;
+  display:inline-block;
+  outline: 5px solid #369;
+  background:white;
+  color:gray;
+  margin:10px;
+  
+  height:25px ;
+  width:50%;
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding:40px 250px;
+  padding-top:0px ;
+  margin-top:0 ;
+  margin-bottom: 50px;
+
+
+
+
+}
+
+
+.styleLetraCategory-1{position: absolute;
+  left: 200px;
+
+  font-family: 'PT Serif', serif;
+
+}
+
+
+
+.PosicionFlechaSiguiente-2{
+  position: absolute;
+  top:2200px;
+
+left:850px;
+
+}
+
+
+.otras-aplicaciones-2{ 
+
+  position: absolute;
+  top:2400px;
+  left:0px;
+  background:#34495e;
+  color:white;
+  outline: 5px solid #3f3f9f;
+  margin:0px;
+  padding:40px 930px;
+  height:25px ;
+  width:100%;
+  
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:20px;
+  /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+  margin-top: -125px;
+  /* margen entre las cajas parte superior y titulo */
+  margin-bottom: -10px;
+
+}
+
+
+.stylePosicionLetraTablero-2{ position: absolute;
+
+  left:510px;
+  font-family: 'PT Serif', serif;
+  color: white;
+   }
+
+
+
+.cabezera-tipo-seccion-2{ 
+
+  position: absolute;
+  top:2350px;
+  left:620px;
+  display:inline-block;
+  outline: 5px solid #369;
+  background:white;
+  color:gray;
+  margin:10px;
+  padding:40px 250px;
+  height:25px ;
+  width:50%;
+  border-radius:10px ;
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top:0px;
+  margin-top:0 ;
+  margin-bottom: 50px;
+
+
+
+
+}
+
+.styleLetraCategory-2{ position: absolute;
+  left: 135px;
+
+  font-family: 'PT Serif', serif; }
+
+
+  .PosicionFlechaSiguiente-3{
+    position: absolute;
+    top:3100px;
+  
+  left:840px;
+  
+  }
+
+
+
+  .separacionFinal{ 
+
+    position: absolute;
+    top:3300px;
+    left:0px;
+    background:#34495e;
+    outline: 5px solid #3f3f9f;
+    margin:0px;
+    padding:20px 930px;
+    height:25px ;
+    width:100%;
+    border-radius:10px ;
+    padding-top:20px;
+    margin-top: -125px;
+    /* espacio del titulo entre el marco de la pagina y las cajas (parte superior) */
+   
+    /* margen entre las cajas parte inferior*/
+    margin-bottom: 10px;
+  
+  }
+  
+
+
+
+
+
+.block7{visibility:hidden;}
+.block8{visibility:hidden;}
+
+
+
+
+
+.texto-1{position:  absolute;
+  font-family: 'PT Serif', serif;
+                      
+  width: 100px;
+  height: 100px;
+   column-count:1;
+    vertical-align:bottom;
+          
+
+}
+
+.texto-2{position:  absolute;
+  font-family: 'PT Serif', serif;
+ 
+  width: 100px;
+  height: 100px;
+    column-count:1;
+     vertical-align:bottom;
+          
+ }
+
+ .texto-3{position:  absolute;
+  font-family: 'PT Serif', serif;
+  width: 100px;
+  height: 100px;
+    column-count:1;
+     vertical-align:bottom;
+         }
+
+
+
+         .texto-4{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+           column-count:1;
+            vertical-align:bottom;
+                  
+        
+        }
+
+        .texto-5{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+            column-count:1;
+             vertical-align:bottom;
+                  
+         }
+
+         .texto-6{position:  absolute;
+          font-family: 'PT Serif', serif;
+          width: 100px;
+          height: 100px;
+            column-count:1;
+             vertical-align:bottom;
+                 }
+
+
+
+
+                 .texto-7{position:  absolute;
+                  font-family: 'PT Serif', serif;
+                  width: 100px;
+                  height: 100px;
+                    column-count:1;
+                     vertical-align:bottom;
+                         }
+
+
+
+                         .texto-8{position:  absolute;
+                          font-family: 'PT Serif', serif;
+                          width: 100px;
+                          height: 100px;
+                            column-count:1;
+                             vertical-align:bottom;
+                                 }
+    
+                      
+                                
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
